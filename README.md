@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wardergrip
 - 👀 I’m interested in game development
 - 🌱 I’m currently going to Howest The Level in Belgium
-- 📫 You can contact me on twitter: @Wardergrip
+- 📫 You can contact me on twitter: @Wardergrip or discord: Wardergrip#1263 
 
 <!---
 Wardergrip/Wardergrip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
