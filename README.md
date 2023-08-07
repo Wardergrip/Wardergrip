@@ -1,7 +1,7 @@
 ## 👋 Hi, I go around the internet called Wardergrip !
 
 - 👀 I’m interested in developing fun game mechanics
-- 🌱 I’m currently studying game development in [Digital Arts and Entertainment](https://digitalartsandentertainment.be/)
+- 🌱 I’m currently studying game development at [Digital Arts and Entertainment](https://digitalartsandentertainment.be/)
 - 📫 You can contact me on twitter: [@Wardergrip](https://twitter.com/Wardergrip) or discord: wardergrip
 - 🔭 I'm currently working on a commercial idling game inspired by Diablo
 - 🌠 My dream project is a competitive multiplayer arena game focused on pvp
