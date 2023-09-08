@@ -11,7 +11,7 @@
 ## ⛓ Links / Contacts
 - [🎮 Itch page](https://wardergrip.itch.io/)
 - [👔 LinkedIn](https://www.linkedin.com/in/rei-messely/)
-- [✉ Mail](mailto:rei.messely@gmail.com)
+- ✉ Mail: rei.messely@gmail.com
 
 ## 💪 Skills
 - ⚙ C++ & C#
