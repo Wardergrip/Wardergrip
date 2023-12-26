@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in developing fun game mechanics
 - 🌱 I’m currently studying game development at [Digital Arts and Entertainment](https://digitalartsandentertainment.be/)
-- 📫 You can contact me on twitter: [@Wardergrip](https://twitter.com/Wardergrip) or discord: wardergrip
-- 🔭 I'm currently working on a automation roguelike hybrid and a file locking program with git named [VortexLocker](https://github.com/Wardergrip/VortexLocker)
+- 📫 You can contact me on email: rei.messely@gmail.com or discord: wardergrip
+- 🔭 I just finished with a roguelike, automation, tower defense hybrid named [Rogoto](https://wardergrip.itch.io/rogoto) and a GUI to make Unity YAML Merge more accessable called [SimpleUYM](https://github.com/wardergrip/simpleuym)
 - 🌠 My dream project is a competitive large team based arena game focused on pvp
 
 ### 📡 Check out my pinned repositories!
