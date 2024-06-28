@@ -1,10 +1,10 @@
-## 👋 Hi, I go around the internet called Wardergrip !
+## 👋 Hi, I go around the internet called Wardergrip!
 
 - 👀 I’m interested in developing fun game mechanics
-- 🌱 I’m currently studying game development at [Digital Arts and Entertainment](https://digitalartsandentertainment.be/)
+- 🌱 I am a [Digital Arts and Entertainment](https://digitalartsandentertainment.be/) graduate, majoring in game development
 - 📫 You can contact me on email: rei.messely@gmail.com or discord: wardergrip
-- 🔭 I just finished a roguelike, automation, tower defense hybrid named [Rogoto](https://wardergrip.itch.io/rogoto) and a GUI to make Unity YAML Merge more accessable called [SimpleUYM](https://github.com/wardergrip/simpleuym)
-- 🌠 My dream project is a competitive large team based arena game focused on pvp
+- 🔭 I just finished a roguelike, automation, tower defense hybrid named [Rogoto](https://wardergrip.itch.io/rogoto) and a GUI to make Unity YAML Merge more accessible called [SimpleUYM](https://github.com/wardergrip/simpleuym)
+- 🌠 My dream project is a competitive large team-based arena game focused on pvp
 
 ### 📡 Check out my pinned repositories!
 
